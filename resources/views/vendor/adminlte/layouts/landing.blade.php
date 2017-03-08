@@ -35,6 +35,8 @@ Landing page based on Pratt: http://blacktie.co/demo/pratt/
 
 <body data-spy="scroll" data-target="#navigation" data-offset="50">
 
+<a href="https://github.com/acacha/adminlte-laravel"><img style="z-index: 999999;position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/121cd7cbdc3e4855075ea8b558508b91ac463ac2/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f677265656e5f3030373230302e706e67" alt="Star me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_green_007200.png"></a>
+
 <div id="app">
     <!-- Fixed navbar -->
     <div id="navigation" class="navbar navbar-default navbar-fixed-top">
@@ -300,5 +302,7 @@ Landing page based on Pratt: http://blacktie.co/demo/pratt/
         interval: 3500
     })
 </script>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56ea93d319d83804"></script>
 </body>
 </html>
